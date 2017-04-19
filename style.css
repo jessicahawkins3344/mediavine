@@ -1,0 +1,17 @@
+.diy { 
+	margin-bottom: 20px;
+}
+
+.diy-item {
+	display: inline-block;
+    padding: 15px;
+    color: #fff;
+}
+
+.diy-item:last-child {
+	padding-left: 5px;
+}
+
+.diy-item:first-child {
+	padding-left: 15px!important;
+}
